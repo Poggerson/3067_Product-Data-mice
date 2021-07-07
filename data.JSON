@@ -1,0 +1,153 @@
+[
+  {
+    "BRAND": "Finalmouse",
+    "NAME": "Ultralight Pro",
+    "PIC": "https://cdn.shopify.com/s/files/1/2377/4861/products/uplblack1_470x.png?v=1519503644",
+    "COST": 30.00,
+    "MSRP": 69.99,
+    "ONHAND": 0,
+    "BACKORDER": 11,
+    "DESC": "THE IMPOSSIBLE MADE POSSIBLE - 67 GRAMS"
+  },
+  {
+    "BRAND": "Finalmouse",
+    "NAME": "Ultralight 2 Cape Town",
+    "PIC": "https://cdn.shopify.com/s/files/1/2377/4861/products/fee3487_031_h_9fa4854b-4049-40ed-b000-9815859d76cf_2048x2048.jpg?v=1619112875",
+    "COST": 60.00,
+    "MSRP": 120.00,
+    "ONHAND": 10,
+    "BACKORDER": 111,
+    "DESC": "Ultralight 2 - Cape Town, WITH INFINITYSKIN, Only 47 grams"
+  },
+  {
+    "BRAND": "Finalmouse",
+    "NAME": "Air58 Ninja - Cherry Blossom Red",
+    "PIC": "https://cdn.shopify.com/s/files/1/2377/4861/products/fee3487_024_h_2048x2048.jpg?v=1619112853",
+    "COST": 50.00,
+    "MSRP": 89.99,
+    "ONHAND": 10,
+    "BACKORDER": 111,
+    "DESC": "58 grams, should we say more? Words can’t explain, must experience. It feels like air, in your hand. It makes the Ultralight feel heavy. It is the Air58."
+  },
+  {
+    "BRAND": "Finalmouse",
+    "NAME": "Air58 Ninja - Cherry Blossom Blue",
+    "PIC": "https://cdn.shopify.com/s/files/1/2377/4861/products/fee3487_021_h_2048x2048.jpg?v=1619112833",
+    "COST": 50.00,
+    "MSRP": 89.99,
+    "ONHAND": 10,
+    "BACKORDER": 111,
+    "DESC": "58 grams, should we say more? Words can’t explain, must experience. It feels like air, in your hand. It makes the Ultralight feel heavy. It is the Air58."
+  },
+  {
+    "BRAND": "Finalmouse",
+    "NAME": "Starlight-12",
+    "PIC": "https://cdn.shopify.com/s/files/1/2377/4861/products/hades1_2048x2048.png?v=1618456499",
+    "COST": 100.00,
+    "MSRP": 189.99,
+    "ONHAND": 0,
+    "BACKORDER": 999,
+    "DESC": "Wireless and only 47 grams: Starlight-12 Magnesium Chassis with Ultem Base"
+  },
+  {
+    "BRAND": "Logitech",
+    "NAME": "G502 Hero",
+    "PIC": "https://resource.logitechg.com/w_1000,c_limit,q_auto:best,f_auto,dpr_auto/content/dam/gaming/en/non-braid/hyjal-g502-hero/g502-hero-hero-nb.png?v=1",
+    "COST": 30.00,
+    "MSRP": 69.99,
+    "ONHAND": 999,
+    "BACKORDER": 99,
+    "DESC": "G502 HERO features an advanced optical sensor for maximum tracking accuracy, customizable RGB lighting, custom game profiles, from 200 up to 25,600 DPI, and repositionable weights."
+  },
+  {
+    "BRAND": "Logitech",
+    "NAME": "G305 LIGHTSPEED",
+    "PIC": "https://resource.logitechg.com/e_trim/w_490,h_310,c_limit/c_lpad,ar_413:310,q_auto:best,f_auto,dpr_auto/content/dam/gaming/en/products/g305/g305-gallery-1.png?v=1",
+    "COST": 30.00,
+    "MSRP": 69.99,
+    "ONHAND": 999,
+    "BACKORDER": 99,
+    "DESC": "G305 is a LIGHTSPEED wireless gaming mouse designed for serious performance with latest technology innovations at an affordable price point. Now in a variety of vibrant colors."
+  },
+  {
+    "BRAND": "Logitech",
+    "NAME": "PRO X SUPERLIGHT",
+    "PIC": "https://resource.logitechg.com/w_1200,c_limit,q_auto:best,f_auto,dpr_auto/content/dam/gaming/en/products/pro-x-superlight/pro-x-superlight-black-hero.png?v=1",
+    "COST": 100.00,
+    "MSRP": 199.99,
+    "ONHAND": 999,
+    "BACKORDER": 99,
+    "DESC": "A result of our continued collaboration with top esports pros, PRO X SUPERLIGHT is engineered with a single goal—to create the lightest possible PRO wireless gaming mouse while retaining the quality, structural integrity and pro-grade standards that Logitech G delivers. Take first faster than ever."
+  },
+  {
+    "BRAND": "Logitech",
+    "NAME": "G903 LIGHTSPEED",
+    "PIC": "",
+    "COST": 70.00,
+    "MSRP": 129.99,
+    "ONHAND": 999,
+    "BACKORDER": 99,
+    "DESC": "It’s evolved. The addition of the advanced HERO 25K Sensor delivers unparalleled precision and performance with 1:1 tracking and 25,600 max DPI — plus zero smoothing, filtering, or acceleration. HERO 25K also offers 10x the power efficiency of the previous generation sensor, delivering improved battery life and reduced weight."
+  },
+  {
+    "BRAND": "Logitech",
+    "NAME": "G604 LIGHTSPEED",
+    "PIC": "https://resource.logitechg.com/w_1000,c_limit,q_auto:best,f_auto,dpr_auto/content/dam/gaming/en/products/g604/g604-gallery-hero.png?v=1",
+    "COST": 70.00,
+    "MSRP": 129.99,
+    "ONHAND": 0,
+    "BACKORDER": 99,
+    "DESC": "Your power, your control. Conquer MOBA, MMO, and Battle Royale gameplay with the strategically designed G604 LIGHTSPEED Wireless Gaming Mouse. 15 programmable controls join forces with ultra-fast LIGHTSPEED dual connectivity and the class-leading HERO 25K sensor. It’s a multifaceted battle weapon that lets you play longer, play better, and make your play."
+  },
+  {
+    "BRAND": "Razer",
+    "NAME": "RAZER OROCHI V2",
+    "PIC": "https://assets3.razerzone.com/kW2Od6R-SZFYvKQc9Srljy8zQ6s=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh6a%2Fh3d%2F9171072221214%2FOrochi-V2-1500x1000-1.jpg",
+    "COST": 30.00,
+    "MSRP": 89.99,
+    "ONHAND": 100,
+    "BACKORDER": 99,
+    "DESC": "Introducing the Razer Orochi V2—a compact, ultra-lightweight wireless gaming mouse with the longest battery life that’s second to none. Armed with both Razer HyperSpeed Wireless & Bluetooth modes, it’s your perfect companion for gaming on the go."
+  },
+  {
+    "BRAND": "Razer",
+    "NAME": "RAZER VIPER 8KHZ",
+    "PIC": "https://assets3.razerzone.com/Zisig0Hda6Yy2qCMcnQM8-lb6Ds=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhd8%2Fh97%2F9140846821406%2Fviper-8khz-1500x1000-03.png",
+    "COST": 40.00,
+    "MSRP": 99.99,
+    "ONHAND": 100,
+    "BACKORDER": 99,
+    "DESC": "Attain the next level of absolute control with the Razer Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen Razer™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor."
+  },
+  {
+    "BRAND": "Razer",
+    "NAME": "Razer DeathAdder V2 Pro",
+    "PIC": "https://assets3.razerzone.com/U-v0ztWgvi4yWGLZbvyOW6dW5oA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh61%2Fhed%2F9086247927838%2FdeathadderV2pro-gallery-1500x1000-img7.jpg",
+    "COST": 80.00,
+    "MSRP": 179.99,
+    "ONHAND": 100,
+    "BACKORDER": 99,
+    "DESC": "With over 10 million Razer DeathAdders sold, the most successful gaming mouse of all time sheds its cord for comfort without limits. All hail the Razer DeathAdder V2 Pro—a wireless ergonomic gaming mouse that ushers in a new reign of dominance through total freedom of movement and control."
+  },
+  {
+    "BRAND": "Razer",
+    "NAME": "Razer Viper Ultimate",
+    "PIC": "https://assets3.razerzone.com/XiXWaor3PhvbjhxZPQ2EiwwJ5f0=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh61%2Fh53%2F9081447710750%2Frazer-viper-ultimate-gallery-01.jpg",
+    "COST": 99.00,
+    "MSRP": 199.99,
+    "ONHAND": 100,
+    "BACKORDER": 99,
+    "DESC": "Forget about average and claim the unfair advantage with the Razer Viper Ultimate—a wireless gaming mouse built to win. Designed to be a true extension of a gamer, this deadly predator comes with our most cutting-edge technology, and is ready to sink its fangs into the competition."
+  },
+  {
+    "BRAND": "Razer",
+    "NAME": "Razer Naga Pro",
+    "PIC": "https://assets3.razerzone.com/zbPf42UeunTLKZUAgWa-ikseDj4=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh59%2Fh35%2F9081993134110%2Frazer-naga-pro-1500x1000-gallery-1.jpg",
+    "COST": 99.00,
+    "MSRP": 199.99,
+    "ONHAND": 100,
+    "BACKORDER": 99,
+    "DESC": "Why specialize in one genre, when you can rule them all? Dominate in every domain with the Razer Naga Pro—a modular wireless gaming mouse with 3 swappable side plates, for the button layouts you need to become a multi-genre master in MMO, Battle Royale, FPS and more."
+  }
+
+]
