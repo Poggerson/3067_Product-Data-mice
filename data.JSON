@@ -2,7 +2,7 @@
   {
     "BRAND": "Finalmouse",
     "NAME": "Ultralight Pro",
-    "PIC": "https://cdn.shopify.com/s/files/1/2377/4861/products/uplblack1_470x.png?v=1519503644",
+    "PIC": "Ultralight_Pro.png",
     "COST": 30.00,
     "MSRP": 69.99,
     "ONHAND": 0,
@@ -12,7 +12,7 @@
   {
     "BRAND": "Finalmouse",
     "NAME": "Ultralight 2 Cape Town",
-    "PIC": "https://cdn.shopify.com/s/files/1/2377/4861/products/fee3487_031_h_9fa4854b-4049-40ed-b000-9815859d76cf_2048x2048.jpg?v=1619112875",
+    "PIC": "Ultralight_Sunset.jpg",
     "COST": 60.00,
     "MSRP": 120.00,
     "ONHAND": 10,
@@ -22,7 +22,7 @@
   {
     "BRAND": "Finalmouse",
     "NAME": "Air58 Ninja - Cherry Blossom Red",
-    "PIC": "https://cdn.shopify.com/s/files/1/2377/4861/products/fee3487_024_h_2048x2048.jpg?v=1619112853",
+    "PIC": "Cherry_Red.jpg",
     "COST": 50.00,
     "MSRP": 89.99,
     "ONHAND": 10,
@@ -32,7 +32,7 @@
   {
     "BRAND": "Finalmouse",
     "NAME": "Air58 Ninja - Cherry Blossom Blue",
-    "PIC": "https://cdn.shopify.com/s/files/1/2377/4861/products/fee3487_021_h_2048x2048.jpg?v=1619112833",
+    "PIC": "Cherry_Blue.jpg",
     "COST": 50.00,
     "MSRP": 89.99,
     "ONHAND": 10,
@@ -42,7 +42,7 @@
   {
     "BRAND": "Finalmouse",
     "NAME": "Starlight-12",
-    "PIC": "https://cdn.shopify.com/s/files/1/2377/4861/products/hades1_2048x2048.png?v=1618456499",
+    "PIC": "Starlight_Black.png",
     "COST": 100.00,
     "MSRP": 189.99,
     "ONHAND": 0,
@@ -52,7 +52,7 @@
   {
     "BRAND": "Logitech",
     "NAME": "G502 Hero",
-    "PIC": "https://resource.logitechg.com/w_1000,c_limit,q_auto:best,f_auto,dpr_auto/content/dam/gaming/en/non-braid/hyjal-g502-hero/g502-hero-hero-nb.png?v=1",
+    "PIC": "g502-hero.png",
     "COST": 30.00,
     "MSRP": 69.99,
     "ONHAND": 999,
@@ -62,7 +62,7 @@
   {
     "BRAND": "Logitech",
     "NAME": "G305 LIGHTSPEED",
-    "PIC": "https://resource.logitechg.com/e_trim/w_490,h_310,c_limit/c_lpad,ar_413:310,q_auto:best,f_auto,dpr_auto/content/dam/gaming/en/products/g305/g305-gallery-1.png?v=1",
+    "PIC": "g305.png",
     "COST": 30.00,
     "MSRP": 69.99,
     "ONHAND": 999,
@@ -72,7 +72,7 @@
   {
     "BRAND": "Logitech",
     "NAME": "PRO X SUPERLIGHT",
-    "PIC": "https://resource.logitechg.com/w_1200,c_limit,q_auto:best,f_auto,dpr_auto/content/dam/gaming/en/products/pro-x-superlight/pro-x-superlight-black-hero.png?v=1",
+    "PIC": "pro-x-superlight.png",
     "COST": 100.00,
     "MSRP": 199.99,
     "ONHAND": 999,
@@ -82,7 +82,7 @@
   {
     "BRAND": "Logitech",
     "NAME": "G903 LIGHTSPEED",
-    "PIC": "",
+    "PIC": "g903.png",
     "COST": 70.00,
     "MSRP": 129.99,
     "ONHAND": 999,
@@ -92,7 +92,7 @@
   {
     "BRAND": "Logitech",
     "NAME": "G604 LIGHTSPEED",
-    "PIC": "https://resource.logitechg.com/w_1000,c_limit,q_auto:best,f_auto,dpr_auto/content/dam/gaming/en/products/g604/g604-gallery-hero.png?v=1",
+    "PIC": "g604.png",
     "COST": 70.00,
     "MSRP": 129.99,
     "ONHAND": 0,
@@ -102,7 +102,7 @@
   {
     "BRAND": "Razer",
     "NAME": "RAZER OROCHI V2",
-    "PIC": "https://assets3.razerzone.com/kW2Od6R-SZFYvKQc9Srljy8zQ6s=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh6a%2Fh3d%2F9171072221214%2FOrochi-V2-1500x1000-1.jpg",
+    "PIC": "RAZER_OROCHI.jpg",
     "COST": 30.00,
     "MSRP": 89.99,
     "ONHAND": 100,
@@ -112,7 +112,7 @@
   {
     "BRAND": "Razer",
     "NAME": "RAZER VIPER 8KHZ",
-    "PIC": "https://assets3.razerzone.com/Zisig0Hda6Yy2qCMcnQM8-lb6Ds=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhd8%2Fh97%2F9140846821406%2Fviper-8khz-1500x1000-03.png",
+    "PIC": "viper.png",
     "COST": 40.00,
     "MSRP": 99.99,
     "ONHAND": 100,
@@ -122,7 +122,7 @@
   {
     "BRAND": "Razer",
     "NAME": "Razer DeathAdder V2 Pro",
-    "PIC": "https://assets3.razerzone.com/U-v0ztWgvi4yWGLZbvyOW6dW5oA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh61%2Fhed%2F9086247927838%2FdeathadderV2pro-gallery-1500x1000-img7.jpg",
+    "PIC": "deathadder.jpg",
     "COST": 80.00,
     "MSRP": 179.99,
     "ONHAND": 100,
@@ -132,7 +132,7 @@
   {
     "BRAND": "Razer",
     "NAME": "Razer Viper Ultimate",
-    "PIC": "https://assets3.razerzone.com/XiXWaor3PhvbjhxZPQ2EiwwJ5f0=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh61%2Fh53%2F9081447710750%2Frazer-viper-ultimate-gallery-01.jpg",
+    "PIC": "Viper_Ultimate.jpg",
     "COST": 99.00,
     "MSRP": 199.99,
     "ONHAND": 100,
@@ -142,7 +142,7 @@
   {
     "BRAND": "Razer",
     "NAME": "Razer Naga Pro",
-    "PIC": "https://assets3.razerzone.com/zbPf42UeunTLKZUAgWa-ikseDj4=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh59%2Fh35%2F9081993134110%2Frazer-naga-pro-1500x1000-gallery-1.jpg",
+    "PIC": "naga_pro.jpg",
     "COST": 99.00,
     "MSRP": 199.99,
     "ONHAND": 100,
